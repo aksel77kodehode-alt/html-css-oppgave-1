@@ -1,0 +1,10 @@
+body {
+  background-image: url("https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg"); background-size: cover; background-position: center;
+background-size: cover; background-position: center; background-image: no repeat; min height: 100vh;
+
+  background-color: black
+    color(prophoto-rgb rgb(162, 89, 89) green rgb(144, 144, 215));
+  font-family; Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: center;
+}
