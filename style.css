@@ -1,10 +1,30 @@
-body {
-  background-image: url("https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg"); background-size: cover; background-position: center;
-background-size: cover; background-position: center; background-image: no repeat; min height: 100vh;
+#body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg");
+  background-size: cover;
+  background-position: center;
+  background-size: cover;
+  background-position: center;
+  background-image: no repeat;
+  min-height: 100vh;
+}
 
-  background-color: black
-    color(prophoto-rgb rgb(162, 89, 89) green rgb(144, 144, 215));
-  font-family; Verdana, Geneva, Tahoma, sans-serif;
+#header {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: brown;
+}
+
+#main {
+  color: bisque;
+}
+#footer {
+  color: rgb(29, 37, 42);
+  padding-bottom: 20px;
+  margin-top: 100px;
+  border: 2px solid rgb(142, 118, 238);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
