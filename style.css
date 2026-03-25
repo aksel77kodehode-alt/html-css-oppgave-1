@@ -9,15 +9,17 @@
   min-height: 100vh;
 }
 
-#header {
+.header {
   display: flex;
   flex-direction: column;
   align-items: center;
   color: brown;
+  font-size: 25px;
 }
 
 #main {
   color: bisque;
+  align-items: flex-start;
 }
 #footer {
   color: rgb(29, 37, 42);
